@@ -77,7 +77,7 @@ $app->singleton(
 // $app->register(App\Providers\EventServiceProvider::class);
 	
 
-$app->register(Maatwebsite\Excel\ExcelServiceProvider::class);
+//$app->register(Maatwebsite\Excel\ExcelServiceProvider::class);
 
 
 /*
